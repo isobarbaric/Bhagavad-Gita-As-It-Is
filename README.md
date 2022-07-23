@@ -1,2 +1,2 @@
 
-# Bhagavad Gita in JSON :)
+# Bhagavad Gita As It Is in JSON :)
